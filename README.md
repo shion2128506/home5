@@ -17,3 +17,7 @@ z = 15.221
 
 **Ожидаемый результат:**
 w = 39.37413
+
+## Блок-схема
+
+![Блок-схема алгоритма](https://github.com/shion2128506/home5/blob/master/homework5/%D0%B4%D0%B75.PNG?raw=true)
